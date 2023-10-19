@@ -9,6 +9,10 @@ The primary objectives of the project are to:
 - Implement a user-friendly interface using Streamlit for real-time predictions.
 - Experiment with different algorithms, including RandomForest, CatBoost, XGBoost, and an Artificial Neural Network, to determine the most effective model.
 
+## Web App Link
+Real Time Working App
+https://sunbase-assignment-solution.streamlit.app/
+
 ## Demo Image
 Image 1
 ![image](https://github.com/Sarthak-1408/Semantic-Similarity/assets/72247049/75c0b368-d805-410d-961d-29848c008bd9)
