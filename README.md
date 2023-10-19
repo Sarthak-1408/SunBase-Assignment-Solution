@@ -9,6 +9,13 @@ The primary objectives of the project are to:
 - Implement a user-friendly interface using Streamlit for real-time predictions.
 - Experiment with different algorithms, including RandomForest, CatBoost, XGBoost, and an Artificial Neural Network, to determine the most effective model.
 
+## Demo Image
+Image 1
+![image](https://github.com/Sarthak-1408/Semantic-Similarity/assets/72247049/75c0b368-d805-410d-961d-29848c008bd9)
+
+Image 2
+![image](https://github.com/Sarthak-1408/Semantic-Similarity/assets/72247049/03ec45f6-5f49-4c39-a695-989c81bab280)
+
 This repository provides the code, resources, and a Streamlit app for users to interact with the developed models and gain insights into customer churn predictions.
 ## Files and Directory Structure
 - `SunbaseData ML Assignment.ipynb`: Jupyter Notebook containing the main code for data exploration, preprocessing, and modeling.
